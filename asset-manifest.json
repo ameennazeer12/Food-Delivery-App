@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Food-Delivery-App/static/css/main.6fc3b7a8.chunk.css",
-    "main.js": "/Food-Delivery-App/static/js/main.fbc432f6.chunk.js",
-    "main.js.map": "/Food-Delivery-App/static/js/main.fbc432f6.chunk.js.map",
+    "main.js": "/Food-Delivery-App/static/js/main.08096221.chunk.js",
+    "main.js.map": "/Food-Delivery-App/static/js/main.08096221.chunk.js.map",
     "runtime-main.js": "/Food-Delivery-App/static/js/runtime-main.d541070e.js",
     "runtime-main.js.map": "/Food-Delivery-App/static/js/runtime-main.d541070e.js.map",
     "static/js/2.8378442c.chunk.js": "/Food-Delivery-App/static/js/2.8378442c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d541070e.js",
     "static/js/2.8378442c.chunk.js",
     "static/css/main.6fc3b7a8.chunk.css",
-    "static/js/main.fbc432f6.chunk.js"
+    "static/js/main.08096221.chunk.js"
   ]
 }
