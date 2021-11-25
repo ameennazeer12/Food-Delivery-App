@@ -9,8 +9,8 @@ function App() {
     <div className="grid-container">
       <header className="row">
         <div>
-          <a className="brand" href="/">
-            Foody Knight
+          <a className="brand" href="/Food-Delivery-App/">
+            Foody Knights
           </a>
         </div>
         <div>
@@ -20,8 +20,8 @@ function App() {
       </header>
       <main>
         <Routes>
-          <Route exact path='/' element={<HomeScreen/>}/>
-        <Route path='/product/:id' element={<ProductScreen/>}/>
+          <Route exact path="/Food-Delivery-App/" element={<HomeScreen/>} />
+          <Route path="/Food-Delivery-App/product/:id" element={<ProductScreen/>} />
         </Routes>
       </main>
       <footer className="row center">All right reserved</footer>

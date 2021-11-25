@@ -11,10 +11,10 @@ export default function ProductScreen(props) {
   }
   return (
     <div>
-      <Link style={{color:'#410028'}} to="/">Back to result</Link>
+      <Link  style={{color:'#410028'}} to="/Food-Delivery-App/">Back to result</Link>
       <div className="row top">
         <div className="col-2">
-          <img className="large" src={product.image} alt={product.name}></img>
+          <img className="large" src={`.${product.image}`} alt={product.name}></img>
         </div>
         <div className="col-1">
           <ul>

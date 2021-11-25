@@ -1,5 +1,7 @@
-{ "homepage": "http://ameennazeer12.github.io/Food-Delivery-App",
+{ 
+
   "name": "foodyknight",
+  "homepage": "http://ameennazeer12.github.io/Food-Delivery-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
